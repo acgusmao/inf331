@@ -1,1 +1,2 @@
-# inf331_laboratorios
+# INF331 - Componentização e Reuso de Software: Conceitos e Práticas (2020)
+## Alexsandro Coltre Gusmao
