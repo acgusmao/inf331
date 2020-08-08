@@ -32,14 +32,14 @@
 
 # Projeto de Composição de Componentes para Recomendação
 
-![Image Diagrama Composição para Recomendação](images/Composição para Recomendação.PNG)
+![Image Diagrama Composição para Recomendação](images/Composição-para-Recomendação.PNG)
 
 # Projeto de Composição de Componentes para Pedido
 
 ## Diagrama de Componentes
 
-![Image Diagrama Composição de Pedido.PNG](images/Composição de Pedido.PNG)
+![Image Diagrama Composição de Pedido.PNG](images/Composição-de-Pedido.PNG)
 
 ## Diagrama de Interfaces
 
-![Image Diagrama Interface - Composição de Pedido](images/Composição de Pedido - Interface.png)
+![Image Diagrama Interface - Composição de Pedido](images/Composição-de-Pedido-Interface.png)
