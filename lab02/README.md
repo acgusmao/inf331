@@ -1,5 +1,5 @@
 # Tarefa sobre catálogo de componentes
-![notebook/components-01-catalog.ipynb](notebook/components-01-catalog.ipynb)
+[notebook/components-01-catalog.ipynb](notebook/components-01-catalog.ipynb)
 
 # Tarefa Web Components 1
 ~~~html
