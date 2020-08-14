@@ -2,7 +2,7 @@
 ![notebook/components-01-catalog.ipynb](notebook/components-01-catalog.ipynb)
 
 # Tarefa Web Components 1
-
+~~~html
 <dcc-trigger label="Mundo" 
 	action="noticia/mundo/politica"
 	value="Mundo - politica">
@@ -39,6 +39,7 @@
                  speech="Quero saber sobre: ">
                  <subscribe-dcc topic="#"></subscribe-dcc>
 </dcc-lively-talk>
+~~~
 
 # Tarefa Web Components 2
 
