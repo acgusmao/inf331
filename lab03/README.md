@@ -6,32 +6,32 @@
 
 # Tarefa 03
 
-### Imagem da Home do aplicativo
+### Tela 01 - Imagem da Home do aplicativo
 ![images/home.PNG](images/home.PNG)
 
-### Lista com as opções de produto
+### Tela 02 - Lista com as opções de produtos
 ![images/home_select.PNG](images/home_select.PNG)
 
-### Produto Bicicleta selecionado
+### Tela 03 - Produto Bicicleta selecionado
 ![images/bike1.PNG](images/bike1.PNG)
 
-### Quantidade do produto Bicicleta selecionado
+### Tela 04 - Adicionado quantidade do produto Bicicleta e clicado no botão "comprar"
 ![images/bike1.PNG](images/bike2.PNG)
 
-### Produto JBL selecionado
+### Tela 05 - Produto JBL selecionado
 ![images/Tarefa_02.PNG](images/JBL1.PNG)
 
+### Tela 06 - Adicionado quantidade do produto JBL e clicado no botão "comprar"
 ### Quantidade do produto JBL selecionado
 ![images/Tarefa_02.PNG](images/JBL2.PNG)
 
-
-### Produto Notebook selecionado
+### Tela 07 - Produto Notebook selecionado
 ![images/Tarefa_02.PNG](images/note1.PNG)
 
-### Quantidade do produto Notebook selecionado
+### Tela 08 - Adicionado quantidade do produto Notebook e clicado no botão "comprar"
 ![images/Tarefa_02.PNG](images/note2.PNG)
 
-- Exemplo do diagrama de blocos da tela de notebook
+### Exemplo do diagrama de blocos da tela de notebook
 ![images/diagrama_blocos.PNG](images/diagrama_blocos.PNG)
 
 # Tarefa 04
