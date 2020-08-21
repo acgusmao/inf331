@@ -22,7 +22,6 @@
 ![images/Tarefa_02.PNG](images/JBL1.PNG)
 
 ### Tela 06 - Adicionado quantidade do produto JBL e clicado no botão "comprar"
-### Quantidade do produto JBL selecionado
 ![images/Tarefa_02.PNG](images/JBL2.PNG)
 
 ### Tela 07 - Produto Notebook selecionado
