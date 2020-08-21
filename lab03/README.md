@@ -8,4 +8,4 @@
 
 
 # Tarefa 04
-[link do repositorio da equipe 05] (https://github.com/inf331Equipe05/equipe5)
+link do repositorio da equipe 05 no github https://github.com/inf331Equipe05/equipe5
