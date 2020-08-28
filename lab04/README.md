@@ -6,7 +6,6 @@
 
 ## Tarefa 3
 > ![Diagrama de Orquestração](images/componentizacao-tecnico-model.png)
-
 ## Tarefa 4
 
 ### Serviço `Open Library`
