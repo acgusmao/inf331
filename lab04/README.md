@@ -12,7 +12,7 @@
 ### Serviço `Open Library`
 * **Título do serviço**: `Books API`
 * **Breve descrição**:
-  > The Open Library Books API provides a programmatic client-side method for querying information of books using Javascript.
+  > A API Open Library Books fornece um método do lado do cliente para consultar informações de livros usando Javascript.
 * **URL completa da requisição**: `https://openlibrary.org/api/books?bibkeys=ISBN:0201558025,LCCN:93005405&format=json`
 
 ### Serviço Exemplo com parametro de ISBN e formato JSON
@@ -97,10 +97,10 @@ format: json
 * **Título do serviço**: `International NameDay API
 `
 * **Breve descrição**:
-  > This API returns namedays for various countries.
+  > Esta API retorna name dos dias de vários países.
 * **URL completa da requisição**: `https://api.abalin.net/today?country=us&timezone=America%2FLos_Angeles`
 
-### Serviço Exemplo com parametro de país, mes e dia
+### Serviço Exemplo com parametro de país e timezone
 * **Cabeçalho HTTP da chamada**:
 ~~~http
 :authority: api.abalin.net
@@ -148,9 +148,9 @@ data: { dates: { day: 27, month: 8},…}
 	namedays: { us: "Caesar, Cesar, King, Kingsley, Lyndon, Sheri, Sherri, Sherry, Sheryl"}
 	us: "Caesar, Cesar, King, Kingsley, Lyndon, Sheri, Sherri, Sherry, Sheryl"
 ~~~
-### Serviço Exemplo com parametro de ISBN, detalhes e formato JSON
-* **Detalhes do livro no formato JSON**:
-https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=details&format=json
+### Serviço Exemplo com parametro de país, mes e dia
+* **Detalhes da api com país mes e dia**:
+https://api.abalin.net/namedays?country=us&month=7&day=15
 * **Cabeçalho HTTP da chamada**:
 ~~~http
 :authority: api.abalin.net
