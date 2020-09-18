@@ -10,8 +10,6 @@ Link para o projeto no Codepen:
 [https://codepen.io/ex106243/pen/bGpxZqb](https://codepen.io/ex106243/pen/bGpxZqb)
 
 
-código do seu componente:
-
 **HTML**
 ~~~html
 <div id="root"></div>
